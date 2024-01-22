@@ -7,6 +7,13 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        Grayishblue: "hsl(237, 18%, 59%)",
+        Softred: "hsl(345, 95%, 68%)",
+        Darkdesaturatedblue: "hsl(236, 21%, 26%)",
+        darkblue: "hsl(235, 16%, 14%)",
+        Verydarkblue: "hsl(234, 17%, 12%)",
+      },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
         "gradient-conic":
