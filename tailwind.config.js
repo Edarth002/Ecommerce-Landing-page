@@ -8,11 +8,13 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        Grayishblue: "hsl(237, 18%, 59%)",
-        Softred: "hsl(345, 95%, 68%)",
-        Darkdesaturatedblue: "hsl(236, 21%, 26%)",
-        darkblue: "hsl(235, 16%, 14%)",
-        Verydarkblue: "hsl(234, 17%, 12%)",
+        Orange: "hsl(26, 100%, 55%)",
+        Paleorange: "hsl(25, 100%, 94%)",
+        Verydarkblue: "hsl(220, 13%, 13%)",
+        Darkgrayishblue: "hsl(219, 9%, 45%)",
+        Grayishblue: "hsl(220, 14%, 75%)",
+        Lightgrayishblue: "hsl(223, 64%, 98%)",
+        Blackened: "hsl(0, 0%, 0%)",
       },
       backgroundImage: {
         "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",

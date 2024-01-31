@@ -1,12 +1,11 @@
-import BackGround from "./background";
-import Hero from "./hero";
+"use client";
+import Landingpage from "./Landingpage";
 
 export default function Home() {
   return (
     <main>
       <div>
-        <BackGround />
-        <Hero />
+        <Landingpage />
       </div>
     </main>
   );
